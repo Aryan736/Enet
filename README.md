@@ -2,7 +2,7 @@
 
 EntreNet is a full-stack professional networking platform designed specifically for entrepreneurs, investors, and mentors. It provides a dedicated space to share ideas, seek funding, find collaborators, and build a meaningful professional network.
 
-## Tech Stack
+# Tech Stack
 
 **Frontend:**
 * HTML
